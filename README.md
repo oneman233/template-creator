@@ -7,7 +7,7 @@
   * `TemplateCreator <folder name> <number>`：建立新目录 `folder name`，并且按照 `1.cpp` 到 `number.cpp` 的顺序复制算法模板
   * `TemplateCreator <folder name> <uppercase letter>`：建立新目录 `folder name`，并且按照 `A.cpp` 到 `uppercase letter.cpp` 的顺序复制算法模板
 
-例如，键入 `NewProject test 5` 命令，目录如下所示：
+例如，键入 `TemplateCreator test 5` 命令，目录如下所示：
 
 ```
 │  TemplateCreator.cpp
